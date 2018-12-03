@@ -1,0 +1,22 @@
+a {
+    color: black;
+    text-decoration:none;
+    font-family: Arial;
+}
+p {
+    font-family:"Arial", 'Times New Roman';
+}
+body {
+    background-image: url(../img/marble_real.jpg);
+    font-family: "Arial", 'Times New Roman';
+    font-weight: bold;
+    div {
+        width: 300px;
+        border: 25px solid green;
+        padding: 25px;
+        margin: 25px;
+    }
+    h1 {
+        color: black;
+        font-family: "Arial Black";
+}
